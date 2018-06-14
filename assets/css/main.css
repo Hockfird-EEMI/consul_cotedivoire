@@ -3035,11 +3035,11 @@
 
 	#banner {
 		background-color: #3a3347;
-		background-image: url("images/banner.svg");
-		/* background-image: url("images/el.svg"); */
-		background-position: 25% bottom;
-		background-repeat: repeat-x;
-		background-size: 1500px 300px;
+		/* background-image: url("images/banner.svg"); */
+		background-image: url("images/elephant.jpg");
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
 		color: #fff;
 		padding: 16em 0 14em 0;
 		text-align: center;
@@ -3058,7 +3058,8 @@
 		}
 
 		#banner p {
-			color: #e98b6c;
+			/* color: #e98b6c; */
+			color: white;
 			font-size: 2em;
 			margin-bottom: 1.75em;
 		}
@@ -3130,8 +3131,8 @@
 		/* Banner */
 
 			#banner {
-				background-size: 1125px 225px;
-				padding: 12em 0 10em 0;
+				/* background-size: 1125px 225px; */
+				/* padding: 12em 0 10em 0; */
 			}
 
 	}
@@ -3172,8 +3173,8 @@
 		/* Banner */
 
 			#banner {
-				background-size: 900px 180px;
-				padding: 10em 0 8em 0;
+				/* background-size: 900px 180px;
+				padding: 10em 0 8em 0; */
 			}
 
 				#banner h2 {
@@ -3517,8 +3518,8 @@
 		/* Banner */
 
 			#banner {
-				background-size: 675px 135px;
-				padding: 5em 2em 4em 2em;
+				/* background-size: 675px 135px;
+				padding: 5em 2em 4em 2em; */
 			}
 
 				#banner h2 {
@@ -3634,8 +3635,8 @@
 		/* Banner */
 
 			#banner {
-				background-size: 540px 108px;
-				padding: 7em 2em 6em 2em;
+				/* background-size: 540px 108px;
+				padding: 7em 2em 6em 2em; */
 			}
 
 		/* Contact */

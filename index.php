@@ -4,7 +4,7 @@
 				<section id="banner">
 					<!-- <h2>Consulat Honoraire de Cote d’Ivoire dans les départements du Calvados, de l’Orne et de la Manche</h2> -->
 					<!-- <h4><img class="" src="images/ci.png" alt=""></h4> -->
-					<p>Consulat Honoraire de Cote d’Ivoire dans les départements du Calvados, de l’Orne et de la Manche</p>
+					<p class="unikGregg">Consulat Honoraire de Cote d’Ivoire dans les départements du Calvados, de l’Orne et de la Manche</p>
 					<!-- <ul class="actions">
 						<li><a href="#" class="button">Magna Sed Etiam</a></li>
 					</ul> -->

@@ -17,7 +17,7 @@
 								<p>
 									<ul>
 										<li>La somme de 100 euros en espèces.</li>
-										<li>La déclaration de perte du passeport en cas de perte.</li>
+										<li>La déclaration de perte du passeport en cas de perte (Disponible <a href="documents/cerfa_14011-02.pdf" download>ici</a>).</li>
 										<li>Un extrait d’acte de naissance de moins de trois ans ou copie intégrale d‘acte de naissance pour ceux nés en France et carte circulaire.</li>
 										<li>Une pièce d’identité ivoirienne en cours de validité (passeport ou nouvelle carte sécurisée).</li>
 										<li>Un justificatif de domicile (Facture EDF- GDF ou de Téléphone ouQuittance de loyer). <br>
