@@ -17,7 +17,7 @@
 								<p>
 									<ul>
 										<li>La somme de 50 euros en espèces.</li>
-										<li>Le formulaire de déclaration de perte dûment rempli et signé (Disponible <a href="documents/cerfa_14011-02.pdf" download>ici</a>).</li>
+										<li>Le formulaire de déclaration de perte dûment rempli et signé (Disponible <a href="documents/perte.pdf" download>ici</a>).</li>
 										<li>Photocopie d’une pièce d’identité ivoirienne en cours de validité (passeport ou la nouvelle carte sécurisée).</li>
 										<li>Un justificatif de domicile (Facture EDF- GDF ou Téléphone ou Quittance de loyer).</li>
 										<li>

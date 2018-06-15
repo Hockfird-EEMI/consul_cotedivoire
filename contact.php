@@ -19,12 +19,13 @@
   <section class="container 75%">
     <header class="major">
       <h2>Nous Contacter</h2>
-      <p>Aliquet ante lobortis non semper gravida. Accumsan faucibus praesent ante aliquet amet posuere ac cubilia. Eu faucibus mi neque adipiscing mi lorem. Semper blandit. Amet adipiscing interdum.</p>
+      <!-- <p></p> -->
+
     </header>
     <div id="contact" class="box">
-      <div class="row uniform">
+      <div class="row">
         <div class="7u 12u(narrower)">
-          <form method="POST" action="https://formspree.io/gregasayer@gmail.com">
+          <form method="POST" action="https://formspree.io/consulatcotedivoirecaen@huderie.com">
             <div class="row uniform 50%">
               <div class="12u">
                 <?php
@@ -70,16 +71,16 @@
             </li>
             <li>
               <h3 class="icon fa-envelope"><span class="label">Email</span></h3>
-              <a href="#">consulatcotedivoirecaen@huderie.com</a>
+              <a href="#">consulatcotedivoirecaen <br> @huderie.com</a>
             </li>
-            <li>
+            <!-- <li>
               <h3 class="icon fa-twitter"><span class="label">Twitter</span></h3>
               <a target="_blank" href="https://twitter.com/huderie">twitter.com/huderie</a>
             </li>
             <li>
               <h3 class="icon fa-facebook"><span class="label">Facebook</span></h3>
               <a href="https://www.facebook.com/Huderie">facebook.com/Huderie</a>
-            </li>
+            </li> -->
           </ul>
         </div>
       </div>

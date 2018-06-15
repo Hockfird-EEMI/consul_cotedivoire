@@ -17,7 +17,7 @@
 								<p>
 									<ul>
 										<li>La somme de 50 euros en espèces.</li>
-										<li>Le formulaire de demande de Visa dûment rempli et signé à télécharger
+										<li>Le formulaire de demande de Visa dûment rempli et signé à télécharger <a href="documents/visa.pdf" download>ici</a> ou 
 											sur <a target="_blank" href="https://www.snedai.com">www.snedai.com</a>.</li>
 										<li>Une photo d'identié (format 4,5 cm sur 3,5 cm) récente de moins de 6 mois.</li>
 										<li>Le passeport en cours de validité pour six mois minimum avec la photocopie des trois premières pages (pages avec photo et adresse).</li>

@@ -3059,9 +3059,20 @@
 
 		#banner p {
 			/* color: #e98b6c; */
+			width: 50%;
 			color: white;
 			font-size: 2em;
+			line-height: 1.2;
 			margin-bottom: 1.75em;
+
+			position: absolute;
+			width: 40%;
+			/* height: 50%; */
+			top: 5%;
+			left: 30%;
+			/* right: 50%; */
+			/* margin-left: -50px; /* margin is -0.5 * dimension */ */
+			/* margin-top: -25px; */
 		}
 
 		#banner input[type="submit"].alt,
